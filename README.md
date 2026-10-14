@@ -53,8 +53,6 @@ Extratos/
     └── Aplicação/
 ```
 
-As pastas de aplicações também podem ser nomeadas `Aplicacao`, sem acento.
-
 ## Como usar
 
 1. Abra o programa.
